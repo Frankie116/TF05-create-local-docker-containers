@@ -5,3 +5,6 @@ updated from lab006-tf-docker-demo
 Changelog-002
 added readme.md
 refactored code
+
+Changelog-003
+added extra containers
