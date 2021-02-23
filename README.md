@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 
-## Project: TF08-local-docker-containers
+## Project: TF12-local-docker-containers
 
 Purpose: This project creates docker containers on your desktop using terraform.
 
